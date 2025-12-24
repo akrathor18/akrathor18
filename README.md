@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00e5ff&center=true&vCenter=true&width=700&lines=Learning.+Building.+Leveling+Up." />
 </p>
 
-💻 **MERN Stack Developer | Full-Stack Builder | Lifelong Learner**  
-🌱 Turning ideas into scalable web applications  
-🎯 On a journey to become a **good developer**
 
 ---
 ## 🧠 About Me
