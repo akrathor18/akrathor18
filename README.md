@@ -7,9 +7,9 @@
 ## 🧠 About Me
 
 - 🔭 Currently building **full-stack web apps** using the **MERN stack**
-- 🧩 I enjoy solving **real-world problems, **not just following tutorials
+- 🧩 I enjoy solving **real-world** **problems,** not just following tutorials
 - 🏗️ Interested in **system design**, backend architecture & scalability
-- 🤝 Open to collaborating on** open-source, student-focused, and impact-driven projects**
+- 🤝 Open to collaborating on **open-source, student-focused, and impact-driven projects**
 - 🚀 Always learning ways to build **better, faster, and cleaner** applications
 - 😄 Fun fact: I debug, fix bugs… and sometimes laugh at my own silly ones
 
