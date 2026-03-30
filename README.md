@@ -26,15 +26,12 @@
 
 ---
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=akrathor18&theme=dark&hide_border=false)<br/>
+  <img width="401" src="https://streak-stats.demolab.com/?user=akrathor18&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
+  
+![]([https://nirzak-streak-stats.vercel.app/?user=akrathor18&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=akrathor18&ring=5094F0&fire=5094F0&currStreakLabel=5094F0))<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akrathor18&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akrathor18&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=akrathor18&icon=0&color=0)](https://visitcount.itsvg.in)
 
