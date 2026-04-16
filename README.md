@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ashish (aka DevSpark) ⚡
+# Full Stack Developer | Building production-ready apps (MERN, Prisma, PostgreSQL)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00e5ff&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
 </p>
@@ -6,12 +6,12 @@
 ---
 ## 🧠 About Me
 
-- 🔭 Currently building **full-stack web apps** using the **MERN stack**
-- 🧩 I enjoy solving **real-world** **problems,** not just following tutorials
-- 🏗️ Interested in **system design**, backend architecture & scalability
-- 🤝 Open to collaborating on **open-source, student-focused, and impact-driven projects**
-- 🚀 Always learning ways to build **better, faster, and cleaner** applications
-- 😄 Fun fact: I debug, fix bugs… and sometimes laugh at my own silly ones
+- 🚀 Full-stack developer (MERN + PostgreSQL/Prisma)
+- 🛠️ Built systems like StudyHub (notes + quizzes), Inventory Management (tracking, logs, alerts), and ChatSpark (real-time chat)
+- ⚙️ Focused on scalable backend architecture & clean API design
+- 📊 Interested in system design, performance & database optimization
+- 🧩 Learn by building, breaking, and improving real systems
+- 🤝 Open to meaningful collaborations
 
 ---
 
