@@ -1,35 +1,63 @@
-# Full Stack Developer | Building production-ready apps (MERN, Prisma, PostgreSQL)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=00e5ff&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Improve" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00ffff,50:11a1db,100:00ffff&text=Ashish%20Kumar&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55" />
 </p>
 
----
-## 🧠 About Me
-
-- 🚀 Full-stack developer (MERN + PostgreSQL/Prisma)
-- 🛠️ Built systems like StudyHub (notes + quizzes), Inventory Management (tracking, logs, alerts), and ChatSpark (real-time chat)
-- ⚙️ Focused on scalable backend architecture & clean API design
-- 📊 Interested in system design, performance & database optimization
-- 🧩 Learn by building, breaking, and improving real systems
-- 🤝 Open to meaningful collaborations
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.ashish.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-1b4919321) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iam_ashish_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishk.codes@gmail.com) 
-
-# 💻 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,mongodb,mysql,postgresql,git,github" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=11a1db&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Building+Production-Ready+Applications;MERN+%7C+PostgreSQL+%7C+Prisma;Learning+Through+Building+and+Shipping;Open+to+Software+Engineering+Opportunities" />
 </p>
-
----
-# 📊 GitHub Stats:
-  <img width="401" src="https://streak-stats.demolab.com/?user=akrathor18&ring=5094F0&fire=5094F0&currStreakLabel=5094F0" />
+<p align="center">
+  <a href="https://ashish-codes.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   
-![]([https://nirzak-streak-stats.vercel.app/?user=akrathor18&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=akrathor18&ring=5094F0&fire=5094F0&currStreakLabel=5094F0))<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akrathor18&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  <a href="https://www.linkedin.com/in/ashishkumartech">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:ashishk.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/akrathor18">
+    <img src="https://img.shields.io/badge/GitHub-akrathor18-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+---
+##  About Me
+<p>
+  
+I am a software engineering-focused Full Stack Developer passionate about building scalable, production-ready web applications that solve real-world problems.
+
+My primary focus is designing robust backend systems, creating performant user experiences, and continuously improving engineering practices through hands-on development.
+
+I enjoy working across the entire product lifecycle—from database design and API architecture to frontend development and deployment.
+</p>
+
+---
+
+# Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,sqlite,git,github,vercel,vscode" />
+</p>
+
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akrathor18&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrathor18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=akrathor18&theme=tokyonight&hide_border=true" />
+</p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
