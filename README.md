@@ -40,18 +40,13 @@ I enjoy working across the entire product lifecycle—from database design and A
 # Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,sqlite,git,github,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,sqlite,git,github,vercel" />
 </p>
 
 
 ---
 
 ## GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akrathor18&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrathor18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=akrathor18&theme=tokyonight&hide_border=true" />
